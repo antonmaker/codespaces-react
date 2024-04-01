@@ -7,11 +7,11 @@ export default function App() {
       <ul>
         <li>
           <span>Women</span>
-          <i className="toggler"></i>
+          <i class="toggler"></i>
           <ul>
             <li>
               <span>Clothing</span>
-              <i className="toggler"></i>
+              <i class="toggler"></i>
               <ul>
                 <li>
                   <span>Coats</span>
@@ -49,11 +49,11 @@ export default function App() {
         </li>
         <li>
           <span>Men</span>
-          <i className="toggler"></i>
+          <i class="toggler"></i>
           <ul>
             <li>
               <span>Clothing</span>
-              <i className="toggler"></i>
+              <i class="toggler"></i>
               <ul>
                 <li>
                   <span>Coats</span>
